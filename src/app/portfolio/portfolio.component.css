@@ -1,0 +1,29 @@
+.por h2 {
+    font-weight: 700;
+    font-size: 2.5rem    nn  nn   n n  00                                                                                                                          bbbbbbbbb ;
+    text-transform: capitalize;
+    color: rgb(44, 62, 80);;
+}
+
+.line{
+    background-color: rgb(44, 62, 80);
+    width: 100px;
+    height: 4px;
+}
+.layer{
+    background-color: #1ABC9C;
+    opacity: 0;
+    transition: .3s, opacity;
+    color: rgba(255, 255, 255, 0.922);
+    cursor: pointer;
+}
+.layer:hover{
+    opacity: 1;
+}
+
+.mar{
+    z-index: 26566565;
+}
+.exit{
+    cursor: pointer;
+}

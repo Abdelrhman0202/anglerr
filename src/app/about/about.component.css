@@ -1,0 +1,19 @@
+.h1  {
+    font-size: large;
+}
+
+.bra {
+    background-color: #1ABC9C;
+   height: 100vh;
+}
+
+.before {
+    width: 100px;
+    height: 3px;
+}
+
+.after {
+    width: 100px;
+    height: 3px;
+}
+

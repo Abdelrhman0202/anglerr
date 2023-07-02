@@ -1,0 +1,19 @@
+.navbar-nav{
+    margin: auto 60%;
+}
+.navbar-brand{
+    margin: auto 100px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight:500;
+}
+.navbar{
+    background-color: #2C3E50;
+}
+.nav-link  {
+color: white;
+text-transform: capitalize;
+font-size: 25px;
+font-weight: 500;
+}
